@@ -1,2 +1,8 @@
 # Group-Milestone1
-We will be designing our project spec in this milestone1 which includes User Stories, Screens and Navigation Flows
+
+## ConFinder
+
+### Table of Contents
+1. Overview
+2. Specs
+3. Wireframe/Prototype
