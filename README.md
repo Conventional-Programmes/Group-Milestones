@@ -27,8 +27,8 @@ An application that helps users find conventions for special interests and hobbi
 - User sets their preferences (Location and Themes/Interests)
 - The user selects a convention on their homepage from a recommendation list
 - Convention Info Page
-- Search Feature
-- Settings
+- Search Feature (search for conventions based on either user interests or selected filters)
+- Settings (Change user info, themes/interests, or messaging settings)
 
 #### **Optional**
 - Social Media Integration (Discord, Twitter, Facebook, etc.)
@@ -64,6 +64,8 @@ An application that helps users find conventions for special interests and hobbi
 - Venue Map
 
 # Wireframes
+![CONConnect_Wireframes1](https://user-images.githubusercontent.com/65150367/192707232-f986b391-b810-4968-b50d-aea808fea151.jpg)
+![CONConnect_Wireframes2](https://user-images.githubusercontent.com/65150367/192707405-ab94706a-2ed3-495a-b359-04e0e202d233.jpg)
 
 
 ### Digital Wireframe & Mockups
