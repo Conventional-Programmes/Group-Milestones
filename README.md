@@ -69,6 +69,9 @@ An application that helps users find conventions for special interests and hobbi
 
 
 ### Digital Wireframe & Mockups
+![Figma Wireframes](https://user-images.githubusercontent.com/65150367/192934625-fbd8933e-a6c9-42ea-ac69-ba6796e79008.png)
 
 
 ### Interactive Prototype
+
+https://www.figma.com/proto/wI0llMcIuDmOaKpv5tpJlh/CONConnect-Digital-Wireframe?page-id=0%3A1&node-id=12%3A617&viewport=-2100%2C535%2C0.8&scaling=contain&starting-point-node-id=12%3A537 
