@@ -63,7 +63,7 @@ An application that helps users find conventions for special interests and hobbi
 - Special Guest
 - Venue Map
 
-# Wireframes
+## Wireframes
 ![CONConnect_Wireframes1](https://user-images.githubusercontent.com/65150367/192707232-f986b391-b810-4968-b50d-aea808fea151.jpg)
 ![CONConnect_Wireframes2](https://user-images.githubusercontent.com/65150367/192707405-ab94706a-2ed3-495a-b359-04e0e202d233.jpg)
 
@@ -74,4 +74,11 @@ An application that helps users find conventions for special interests and hobbi
 
 ### Interactive Prototype
 
+![CONConnect](https://user-images.githubusercontent.com/65150367/195468920-015326a1-6bde-448c-b556-68b8fdbca875.gif)
+
+
 https://www.figma.com/proto/wI0llMcIuDmOaKpv5tpJlh/CONConnect-Digital-Wireframe?page-id=0%3A1&node-id=12%3A617&viewport=-2100%2C535%2C0.8&scaling=contain&starting-point-node-id=12%3A537 
+
+## Schema
+
+### Models
