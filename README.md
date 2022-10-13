@@ -83,8 +83,16 @@ https://www.figma.com/proto/wI0llMcIuDmOaKpv5tpJlh/CONConnect-Digital-Wireframe?
 
 ### Models
 
-#### Item Here
-
+| Property      | Type          | Description               |
+| ------------- |---------------| -------------             |
+| userId        | String        | Unique User Id Number     |
+| username      | String        | Username Login Credential |
+| password      | String        | Password Login Credential |
+| birthday      | String        | User's Birthday           |
+| Email         | String        | User's Email Address      |
+| Location      | String        | User's Home Location      |
+| Hobbies       | Array         | User Hobbies              |
+| Destination   | String        | Address Search            |
 
 ### Networking
 
