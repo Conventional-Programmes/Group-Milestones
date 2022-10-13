@@ -96,10 +96,13 @@ https://www.figma.com/proto/wI0llMcIuDmOaKpv5tpJlh/CONConnect-Digital-Wireframe?
 ### Networking
 
 ##### Lists of network requests by screen
-|  HTTP Link     |  EndPoint | Description |
-|------------------------------------------|
-| Get            | Users     |Get all users|
-| Get            | User Name | all Users   |
-| Get            | Conference| Type        |
+
+|   HTTP        | Character     | Description   |
+| ------------- |---------------| ------------- |
+|      Get      | User name     | get User Name |
+|      Get      | Conference    | get conference|
+|      Get      | String        | Return user   |
+
+
 
 
