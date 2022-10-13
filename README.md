@@ -91,6 +91,7 @@ https://www.figma.com/proto/wI0llMcIuDmOaKpv5tpJlh/CONConnect-Digital-Wireframe?
 | Location      | String        | User's Home Location      |
 | Hobbies       | Array         | User Hobbies              |
 | Destination   | String        | Address Search            |
+| Type          | String        | Conference Type           |
 
 ### Networking
 
