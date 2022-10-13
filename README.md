@@ -1,5 +1,3 @@
-# Group-Milestone2
-
 # CONConnect
 
 ### Table of Contents
