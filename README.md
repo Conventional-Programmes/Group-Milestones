@@ -96,6 +96,6 @@ https://www.figma.com/proto/wI0llMcIuDmOaKpv5tpJlh/CONConnect-Digital-Wireframe?
 
 ### Networking
 
-##### List of network requests by screen
+##### Lists of network requests by screen
 
 
