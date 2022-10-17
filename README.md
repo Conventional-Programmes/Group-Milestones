@@ -128,6 +128,9 @@ https://www.figma.com/proto/wI0llMcIuDmOaKpv5tpJlh/CONConnect-Digital-Wireframe?
 |      Get      | User name     | get User Name |
 |      Get      | Conference    | get conference|
 |      Get      | String        | Return user   |
+|     Post      | String        | upcoming confrerence|
+| Delete       |String          | Previous conventions|
+| Update      | String          | Delete past conventions|
 
 
 
