@@ -119,6 +119,9 @@ https://www.figma.com/proto/wI0llMcIuDmOaKpv5tpJlh/CONConnect-Digital-Wireframe?
     * (Delete) - delete previous chat
     * (Get/Read) - current chat
   
+ An API for Conventional Programmes:
+ 
+ * Base url - http://api.data.conconnect/ed/college
 
 |   HTTP        | Character     | Description   |
 | ------------- |---------------| ------------- |
