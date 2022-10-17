@@ -97,6 +97,19 @@ https://www.figma.com/proto/wI0llMcIuDmOaKpv5tpJlh/CONConnect-Digital-Wireframe?
 
 ##### Lists of network requests by screen
 
+*Feed/Home Screen
+  *(Read/Get) - Conventional Programmes displays user interest
+  *(Read/Get) - Programmes of user interest
+  *(Read/Get) - Upcoming Programmes
+  *(Read/Get) - Dates and Location
+ 
+*Setting Screen
+   *(Get/Read) - change user information
+   *(Get/Read) - change user interest
+   *(Get/Read) - messages setting
+   *(Get/Read) - update user information
+  
+
 |   HTTP        | Character     | Description   |
 | ------------- |---------------| ------------- |
 |      Get      | User name     | get User Name |
