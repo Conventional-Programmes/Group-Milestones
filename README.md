@@ -138,3 +138,13 @@ https://www.figma.com/proto/wI0llMcIuDmOaKpv5tpJlh/CONConnect-Digital-Wireframe?
 ## Milestone 3
 
 
+***Please Watch Video For Current Progress***
+
+https://user-images.githubusercontent.com/65150367/196852239-fbc36a03-e485-4d75-9b6e-ec1f81a92395.mp4
+
+### Next Sprint Cycle ###
+
+1. Convention Research
+2. Flight Information
+3. Hotel Information
+4. User Stories Development
