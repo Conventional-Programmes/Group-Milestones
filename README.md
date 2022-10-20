@@ -1,3 +1,5 @@
+## Milestone1
+
 # CONConnect
 
 ### Table of Contents
@@ -65,6 +67,7 @@ An application that helps users find conventions for special interests and hobbi
 ![CONConnect_Wireframes1](https://user-images.githubusercontent.com/65150367/192707232-f986b391-b810-4968-b50d-aea808fea151.jpg)
 ![CONConnect_Wireframes2](https://user-images.githubusercontent.com/65150367/192707405-ab94706a-2ed3-495a-b359-04e0e202d233.jpg)
 
+## Milestone 2
 
 ### Digital Wireframe & Mockups
 ![Figma Wireframes](https://user-images.githubusercontent.com/65150367/192934625-fbd8933e-a6c9-42ea-ac69-ba6796e79008.png)
@@ -132,6 +135,6 @@ https://www.figma.com/proto/wI0llMcIuDmOaKpv5tpJlh/CONConnect-Digital-Wireframe?
 | Delete       |String          | Previous conventions|
 | Update      | String          | Delete past conventions|
 
-
+## Milestone 3
 
 
