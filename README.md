@@ -149,3 +149,11 @@ https://user-images.githubusercontent.com/65150367/196852239-fbc36a03-e485-4d75-
 4. User Stories Development
 
 ### Milestone 5
+
+
+
+### Next Sprint Cycle ###
+
+1. Database Creation
+2. Wireframe Updates
+3. User Stories Development
