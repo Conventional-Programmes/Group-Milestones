@@ -67,8 +67,7 @@ An application that helps users find conventions for special interests and hobbi
 ![CONConnect_Wireframes1](https://user-images.githubusercontent.com/65150367/192707232-f986b391-b810-4968-b50d-aea808fea151.jpg)
 ![CONConnect_Wireframes2](https://user-images.githubusercontent.com/65150367/192707405-ab94706a-2ed3-495a-b359-04e0e202d233.jpg)
 
-## Milestone 2
-
+## Milestone 2 & 3
 ### Digital Wireframe & Mockups
 ![Figma Wireframes](https://user-images.githubusercontent.com/65150367/192934625-fbd8933e-a6c9-42ea-ac69-ba6796e79008.png)
 
@@ -135,7 +134,7 @@ https://www.figma.com/proto/wI0llMcIuDmOaKpv5tpJlh/CONConnect-Digital-Wireframe?
 | Delete       |String          | Previous conventions|
 | Update      | String          | Delete past conventions|
 
-## Milestone 3
+## Milestone 4
 
 
 ***Please Watch Video For Current Progress***
@@ -148,3 +147,5 @@ https://user-images.githubusercontent.com/65150367/196852239-fbc36a03-e485-4d75-
 2. Flight Information
 3. Hotel Information
 4. User Stories Development
+
+### Milestone 5
