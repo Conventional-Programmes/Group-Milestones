@@ -134,9 +134,6 @@ https://www.figma.com/proto/wI0llMcIuDmOaKpv5tpJlh/CONConnect-Digital-Wireframe?
 | Delete       |String          | Previous conventions|
 | Update      | String          | Delete past conventions|
 
-## Milestone 4
-
-
 ***Please Watch Video For Current Progress***
 
 https://user-images.githubusercontent.com/65150367/196852239-fbc36a03-e485-4d75-9b6e-ec1f81a92395.mp4
@@ -148,8 +145,11 @@ https://user-images.githubusercontent.com/65150367/196852239-fbc36a03-e485-4d75-
 3. Hotel Information
 4. User Stories Development
 
-### Milestone 5
+### Milestone 4
 
+
+
+### Milestone 5
 
 
 ### Next Sprint Cycle ###
