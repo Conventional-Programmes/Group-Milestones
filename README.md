@@ -147,13 +147,25 @@ https://user-images.githubusercontent.com/65150367/196852239-fbc36a03-e485-4d75-
 
 ### Milestone 4
 
-
+N/A
 
 ### Milestone 5
 
+Discussed Redesingn plans 
 
 ### Next Sprint Cycle ###
 
 1. Database Creation
 2. Wireframe Updates
 3. User Stories Development
+
+
+### Milestone 6
+
+No Updates due to lack of team meetings. Team Meeting will be
+
+### Next Sprint Cycle ###
+
+1. **Multiple Team Meetings**
+2. Begin Redesign of App
+3. Decide on Color Scheme
