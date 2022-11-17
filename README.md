@@ -178,6 +178,10 @@ No Updates due to lack of team meetings. Team Meeting will be
 ### Milestone 7
 
 Application Color Scheme
+![AdobeColor-CONConnect 3](https://user-images.githubusercontent.com/65150367/202353843-b606c20b-f0c3-489a-86ef-cd11f4cff800.jpeg)
+![AdobeColor-CONConnect 2](https://user-images.githubusercontent.com/65150367/202353857-cd14fc88-d41b-49f3-8184-1369c34e4a61.jpeg)
+![AdobeColor-CONConnect 1](https://user-images.githubusercontent.com/65150367/202353877-d8badd6e-eab1-4863-af3e-97d5d1a85fc1.jpeg)
+
 App Redesign of Wireframes
 
 ### Final Sprint ###
