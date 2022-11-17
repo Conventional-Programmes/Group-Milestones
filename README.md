@@ -173,3 +173,15 @@ No Updates due to lack of team meetings. Team Meeting will be
 1. **Multiple Team Meetings**
 2. Begin Redesign of App
 3. Decide on Color Scheme
+
+
+### Milestone 7
+
+Application Color Scheme
+App Redesign of Wireframes
+
+### Final Sprint ###
+
+1. Connect Pages to Database
+2. Final Deubbing
+3. Creation of Video & Poster
