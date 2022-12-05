@@ -189,3 +189,10 @@ App Redesign of Wireframes
 1. Connect Pages to Database
 2. Final Deubbing
 3. Creation of Video & Poster
+
+
+### Sprint ###
+
+1. Create Code for Application
+2. Connect Database
+3. Test Application
