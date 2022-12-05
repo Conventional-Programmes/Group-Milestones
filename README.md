@@ -196,3 +196,7 @@ App Redesign of Wireframes
 1. Create Code for Application
 2. Connect Database
 3. Test Application
+  * Read Data
+  *  Add New Data
+  *  Delete Data
+  *  Modify Data
