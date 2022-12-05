@@ -191,7 +191,7 @@ App Redesign of Wireframes
 3. Creation of Video & Poster
 
 
-### Sprint ###
+### Final Sprint (2: Electric Boogaloo) ###
 
 1. Create Code for Application
 2. Connect Database
